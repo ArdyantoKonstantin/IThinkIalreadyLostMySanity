@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'nprogress/nprogress.css';
+@import '@fortawesome/fontawesome-svg-core/styles.css';
+
+#nprogress .bar {
+    background: limegreen !important;
+}
