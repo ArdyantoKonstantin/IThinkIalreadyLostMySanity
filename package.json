@@ -21,7 +21,7 @@
     "pre-commit-check": "tsc && next lint"
   },
   "devDependencies": {
-    "@types/http-proxy": "^1.17.10",
+    "@types/http-proxy": "^1.17.11",
     "@types/node": "^18.15.11",
     "@types/nprogress": "^0.2.0",
     "@types/react": "^18.0.33",
